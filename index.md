@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my github
 
 You can use the [editor on GitHub](https://github.com/harishg14/harishg14.test2.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
